@@ -1,0 +1,14 @@
+{
+  "name": "angularjs-learn",
+  "version": "0.0.0",
+  "description": "Project to prepare for angualarjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Alexander Semenov",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.7.9"
+  }
+}
